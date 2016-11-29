@@ -1,2 +1,4 @@
 blurview.jar
 build.properties
+android/dist/modules
+java-sources.txt
